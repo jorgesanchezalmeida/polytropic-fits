@@ -27,7 +27,8 @@ Modification history:
 Procedure:
 ----------
 
-	Download and unzip the GitHub repositoty 'polytropic_fit'
+	Download and unzip the GitHub repository 'polytropic_fit'
+	
 
 Scripts
 -------
