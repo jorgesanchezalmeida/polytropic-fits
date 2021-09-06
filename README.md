@@ -21,13 +21,13 @@ Python tools to fit projected polytropes (propols) to mass surface density of ga
 Modification history:
 --------------------
 
-	- August 2021. First attemp to set up all the materials needed
+	- Sept 2021. First attemp to set up all the materials needed
 	   to distribute the code.
 
 Procedure:
 ----------
 
-	Download and untar the file 'polytropes.tar'
+	Download and unzip the GitHub repositoty 'polytropic_fit'
 
 Scripts
 -------
